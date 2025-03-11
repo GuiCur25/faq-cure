@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: FAQ Cureety
-email: your-email@example.com
+email: support@cureety.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the basic Jekyll starter site, with Netlify CMS integrated and using
-  Netlify Identity for authentication.
+  Cureety TechCare est un dispositif médical de classe IIa selon la règle 11 du Règlement (UE) 2017/745 en cours de certification auprès de l’organisme notifié Eurofins Italy. Conformément à l’Article 120, il répond aux exigences relatives à la Surveillance après commercialisation, à la Vigilance et à l’enregistrement des opérateurs économiques et des dispositifs (Chapitre VII).
+Le dispositif est fabriqué selon un Système de Management par la Qualité (SMQ) complet et certifié selon la norme ISO 13485 : 2016.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -38,16 +38,16 @@ minima:
 # - about.html
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+ linkedin_username: company/cureety/
 # pinterest_username: jekyll
-# youtube_username: jekyll
+ youtube_username: @cureety17
 # googleplus_username: +jekyll
 
 # Mastodon instances
