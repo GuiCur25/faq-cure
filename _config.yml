@@ -16,7 +16,8 @@
 title: FAQ Cureety
 email: support@cureety.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cureety TechCare est un dispositif médical de classe IIa selon la règle 11 du Règlement (UE) 2017/745 en cours de certification auprès de l’organisme notifié Eurofins Italy. Conformément à l’Article 120, il répond aux exigences relatives à la Surveillance après commercialisation, à la Vigilance et à l’enregistrement des opérateurs économiques et des dispositifs (Chapitre VII).
+  Notre mission ? Démocratiser l’usage de la télésurveillance en onco-hématologie, afin d’en faire le nouveau standard de soins en Europe.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
